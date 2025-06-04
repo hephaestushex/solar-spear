@@ -5,11 +5,12 @@ description: "A solar powered Glider"
 created_at: "2025-06-03"
 ---
 
-# June 8th: Got the screen to work!
+# June 3rd: Begin work on the materials needed
 
-[actual journal content - what did you do?]
+We did some preliminary planning, to see how much it would cost.
 
-[insert pictures of what you're working on!]
+![image](https://github.com/user-attachments/assets/ff55fa50-c2d6-4978-a40c-754cf944efae)
+A basic design to see how much carbon fiber we need
 
-**Total time spent: 2h**
+**Total time spent: 1h**
 
